@@ -1,0 +1,43 @@
+html {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	height: 100%;
+	background-color: rgb(100, 100, 100);
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+	
+	
+}
+
+#game-div {
+	margin: 0 auto;
+	width: 480px;
+}
+
+.info {
+	color: rgb(230, 230, 230);
+	font-size: 18px;
+}
+
+h2, h3 {
+	text-align: center;
+	color: rgb(230, 230, 230);
+}
+
+h2 {
+	margin-top: 0;
+	padding-top: 20px;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(0, 150, 250);
+}
+
+
